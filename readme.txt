@@ -65,4 +65,7 @@ NOTES
   • The game window is 900×500 pixels.
   • Randomised obstacle and enemy spawning scales with score.
 
+
+Author - Student in ULSIT 391sr
+
 ═══════════════════════════════════════════════════════
